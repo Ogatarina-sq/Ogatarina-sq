@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shi Quan
-- 👀 I’m interested in Privacy computing, federated learning, wireless communication
+- 👀 I’m interested in Privacy computing, Cryptography
 
 
 <!---
